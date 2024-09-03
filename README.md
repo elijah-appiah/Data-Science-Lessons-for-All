@@ -27,6 +27,6 @@ After years of self-study into data science, and by utilizing as many online lea
 23. Exploratory Data Analysis with Python
 24. Master Structured Query Language (SQL)
 
-The list is non-exhaustive and more will be added with time. You can feel free to suggest any other relevant topics that I can cover. <p style="color: blue;"><b>ALL LESSONS WILL BE FREE</b></p> AND POSTED ON MY [YOUTUBE CHANNEL](https://www.youtube.com/c/ElijahAppiah). You may decide to donate to help this initiative (how you can do so will be communicated later, but in the meantime, ENJOY!). It is my aim to make the channel one of the best platforms to disseminate knowledge for free. I can guarantee that the lessons will thoroughly planned, comprehensive and detailed, systematic, practical and right-on-point.
+The list is non-exhaustive and more will be added with time. You can feel free to suggest any other relevant topics that I can cover. **ALL LESSONS ARE FREE** AND WILL BE POSTED ON MY [YOUTUBE CHANNEL](https://www.youtube.com/c/ElijahAppiah) ONE STEP AT A TIME. You may decide to donate to help this initiative (how you can do so will be communicated later, but in the meantime, ENJOY!). It is my aim to make the channel one of the best platforms to disseminate knowledge for free. I can guarantee that the lessons will thoroughly planned, comprehensive and detailed, systematic, practical and right-on-point.
 
 I am also contemplating on what name is suitable for this initiative. In the meantime, I refer to it as **TECHNOMICS DATA SCHOOL** (but my channel is named after me. 😜)
