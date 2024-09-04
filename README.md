@@ -1,5 +1,7 @@
 # Data-Science-Lessons-for-All
 
+
+
 After years of self-study into data science, and by utilizing as many online learning platforms for my skills development, I finally decided it was about time I transferred this knowledge to every person out there. I have a YouTube channel where I teach these skills and you can choose to subscribe [here](https://www.youtube.com/c/ElijahAppiah). I am an economist by profession and it is obvious that economics (and econometrics for that matter) coincides with data science in many respects. The following are topics/lessons I will be making videos on:
 
 1. Master R Programming
