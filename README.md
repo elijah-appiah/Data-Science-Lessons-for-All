@@ -8,27 +8,29 @@ After years of self-study into data science, and by utilizing as many online lea
 2. **Master Python**
 3. **Statistical Inference with R**
 4. **Statistical Inference with Python**
-5. [Econometrics]()
+5. Econometrics
 6. **Econometrics with R**
 7. **Econometrics with Python**
-8. **Machine Learning with R**
-9. **Machine Learning with Python**
-10. **Time Series Analysis with R**
-11. **Time Series Analysis with Python**
-12. **Deep Learning with R**
-13. **Deep Learning with Python**
-14. **Master Stata Software**
-15. **Master Statistical Packages for the Social Sciences (SPSS)**
-16. **Statistical Inference with SPSS**
-17. **Statistical Inference with Stata**
-18. **Time Series Analysis with EViews**
-19. **Spatial Analysis with R**
-20. **Spatial Analysis with Python**
-21. **Principal Components Methods in R (PCA, CA, MCA, FAMD, etc…)**
-22. **Principal Components Methods in Python**
-23. **Exploratory Data Analysis with R**
-24. **Exploratory Data Analysis with Python**
-25. **Master Structured Query Language (SQL)**
+8. **Econometrics with SPSS**
+9. **Econometrics with Stata**
+10. **Machine Learning with R**
+11. **Machine Learning with Python**
+12. **Time Series Analysis with R**
+13. **Time Series Analysis with Python**
+14. **Deep Learning with R**
+15. **Deep Learning with Python**
+16. **Master Stata Software**
+17. **Master Statistical Packages for the Social Sciences (SPSS)**
+18. **Statistical Inference with SPSS**
+19. **Statistical Inference with Stata**
+20. **Time Series Analysis with EViews**
+21. **Spatial Analysis with R**
+22. **Spatial Analysis with Python**
+23. **Principal Components Methods in R (PCA, CA, MCA, FAMD, etc…)**
+24. **Principal Components Methods in Python**
+25. **Exploratory Data Analysis with R**
+26. **Exploratory Data Analysis with Python**
+27. **Master Structured Query Language (SQL)**
 
 The list is non-exhaustive and more will be added with time. You can feel free to suggest any other relevant topics that I can cover. **ALL LESSONS ARE FREE** AND WILL BE POSTED ON MY [YOUTUBE CHANNEL](https://www.youtube.com/c/ElijahAppiah) ONE STEP AT A TIME. You may decide to donate to help this initiative (how you can do so will be communicated later, but in the meantime, ENJOY!). It is my aim to make the channel one of the best platforms to disseminate knowledge for free. I can guarantee that the lessons will thoroughly planned, comprehensive and detailed, systematic, practical and right-on-point.
 
