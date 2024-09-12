@@ -8,7 +8,7 @@ After years of self-study into data science, and by utilizing as many online lea
 2. **Master Python**
 3. **Statistical Inference with R**
 4. **Statistical Inference with Python**
-5. Econometrics
+5. [Econometrics](https://github.com/elijah-appiah/Econometrics)
 6. **Econometrics with R**
 7. **Econometrics with Python**
 8. **Econometrics with SPSS**
