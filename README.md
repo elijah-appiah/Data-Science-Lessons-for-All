@@ -31,7 +31,13 @@ After years of self-study into data science, and by utilizing as many online lea
 25. **Exploratory Data Analysis with R**
 26. **Exploratory Data Analysis with Python**
 27. **Master Structured Query Language (SQL)**
+
+## The following lessonsa related to the field of economics rather than data science, and would be covered much later or perhaps sooner.
 28. **Mathematical Economics**
+    - **Mathematics for Economists**
+    - **Advanced Mathematical Economics**
+30. **Microeconomic Theory**
+31. **Macroeconomic Theory**
 
 The list is non-exhaustive and more will be added with time. You can feel free to suggest any other relevant topics that I can cover. **ALL LESSONS ARE FREE** AND WILL BE POSTED ON MY [YOUTUBE CHANNEL](https://www.youtube.com/c/ElijahAppiah) ONE STEP AT A TIME. You may decide to donate to help this initiative (how you can do so will be communicated later, but in the meantime, ENJOY!). It is my aim to make the channel one of the best platforms to disseminate knowledge for free. I can guarantee that the lessons will thoroughly planned, comprehensive and detailed, systematic, practical and right-on-point.
 
