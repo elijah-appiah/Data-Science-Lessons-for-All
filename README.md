@@ -32,7 +32,7 @@ After years of self-study into data science, and by utilizing as many online lea
 26. **Exploratory Data Analysis with Python**
 27. **Master Structured Query Language (SQL)**
 
-## The following lessonsa related to the field of economics rather than data science, and would be covered much later or perhaps sooner.
+## The following lessons are related to the field of economics rather than data science, and would be covered much later or perhaps sooner.
 28. **Mathematical Economics**
     - **Mathematics for Economists**
     - **Advanced Mathematical Economics**
