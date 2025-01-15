@@ -15,8 +15,8 @@
 9. **Econometrics with Stata**
 10. **Machine Learning with R**
 11. **Machine Learning with Python**
-12. **Time Series Analysis with R**
-13. **Time Series Analysis with Python**
+12. **Time Series Analysis and Forecasting with R**
+13. **Time Series Analysis and Forecasting with Python**
 14. **Deep Learning with R**
 15. **Deep Learning with Python**
 16. **Master Stata Software**
