@@ -7,7 +7,7 @@
 1. [Master R Programming](https://github.com/elijah-appiah/Master-R-Programming)
 2. **Master Python**
 3. **Statistical Inference with R**
-4. **Statistical Inference with Python**
+4. [Statistical Inference with Python](https://github.com/elijah-appiah/Statistical-Inference-with-Python)
 5. [Econometrics](https://github.com/elijah-appiah/Econometrics)
 6. **Econometrics with R**
 7. **Econometrics with Python**
