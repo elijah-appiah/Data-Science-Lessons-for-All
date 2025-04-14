@@ -31,6 +31,8 @@
 25. **Exploratory Data Analysis with R**
 26. **Exploratory Data Analysis with Python**
 27. **Master Structured Query Language (SQL)**
+28. **Web Scraping with R**
+29. **Web Scraping with Python**
 
 ### The following lessons are related to the field of economics rather than data science, and would be covered much later or perhaps sooner.
 28. **Mathematical Economics**
